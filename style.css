@@ -1,5 +1,5 @@
 header {
-background: #FFFFFF;
+background: #FFFF00;
 padding: 20px 0;
 }
 .caixa {
@@ -124,4 +124,10 @@ thead {
   background: #555555;
   color: white;
   font-weight: bold;
+}
+
+
+td, th {
+  border: 1px solid #000000;
+  padding: 8px 15px;
 }
