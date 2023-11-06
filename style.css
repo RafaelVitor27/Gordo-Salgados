@@ -108,4 +108,5 @@ margin: 20px 0;
   border: none;
   border-radius: 5px;
   transition: 1s all;
-  cursor
+  cursor: pointer;
+}
